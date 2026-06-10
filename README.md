@@ -99,23 +99,27 @@ I'm **Mia** — a mobile developer who lives in two worlds: the terminal and the
 
 <br/>
 
-### 🎨 GitHub Contribution Art
+### 🎨 Contribution Snake (auto-updates daily)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mia97666/Mia97666/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mia97666/Mia97666/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mia97666/Mia97666/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mia97666/Mia97666/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
+> 🐍 *This snake dances to your commit rhythm — takes a day to warm up.* If blank, the workflow is still doing its first push-up.
 
 <br/>
 
-### 🎵 Coding Vibe
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify" width="400" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mia97666&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-> *"Training montage music makes commit messages 40% more epic."*
+> *"Every trophy is just a punch that landed."*
 
 <br/>
 
